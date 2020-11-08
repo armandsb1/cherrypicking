@@ -6,7 +6,7 @@ const client = platformClient.ApiClient.instance;
 client.setEnvironment(platformClient.PureCloudRegionHosts.eu_central_1);
 
 // OAuth 
-const redirectUri = 'http://127.0.0.1:5500/index.html';
+const redirectUri = 'https://armandsb1.github.io/cherrypicking/index.html';
 const clientId = '3e72efbf-6da5-4c92-ae44-46b5a415e52c';
 
 const queueId = '46520aab-aa30-4192-b0ab-fd9f18fe95b3';
