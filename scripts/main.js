@@ -9,7 +9,7 @@ client.setEnvironment(platformClient.PureCloudRegionHosts.eu_central_1);
 const redirectUri = 'https://armandsb1.github.io/cherrypicking/index.html';
 const clientId = '3e72efbf-6da5-4c92-ae44-46b5a415e52c';
 
-const queueId = 'b81ae99f-2440-464b-b8a0-7cb9a574a117';
+const queueId = 'e15ebeb6-efdb-4b7f-8087-95eaada1511f';
 
 // API instances
 const analyticsApi = new platformClient.AnalyticsApi();
